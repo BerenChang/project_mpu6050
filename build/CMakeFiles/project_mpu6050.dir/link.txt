@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/project_mpu6050.dir/main.cpp.o CMakeFiles/project_mpu6050.dir/I2Cdev.cpp.o CMakeFiles/project_mpu6050.dir/MPU6050.cpp.o -o project_mpu6050  matplotplusplus/source/matplot/libmatplot.a matplotplusplus/source/3rd_party/libnodesoup.a 
