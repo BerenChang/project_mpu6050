@@ -10,4 +10,5 @@ An experimental project dealing with MPU6050 data processing
 ## To be done:
 1. Apply complementary filter
 2. Apply EKF filter
-3. 3D visualize attitude using MPU6050 data
+3. Sensor fusion between accelerometer and gyroscope
+4. 3D visualize attitude using MPU6050 data
